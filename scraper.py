@@ -1,7 +1,7 @@
 ###################################################################################
 # Twitter API scraper - designed to be forked and used for more interesting things
 
-THIS IS A TEST SCRAPER
+# THIS IS A TEST SCRAPER
 ###################################################################################
 
 import scraperwiki
