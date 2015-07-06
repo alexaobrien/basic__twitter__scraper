@@ -1,5 +1,7 @@
 ###################################################################################
 # Twitter API scraper - designed to be forked and used for more interesting things
+
+THIS IS A TEST SCRAPER
 ###################################################################################
 
 import scraperwiki
@@ -7,8 +9,8 @@ import simplejson
 import urllib2
 
 # Get results from the Twitter API! Change QUERY to your search term of choice. 
-# Examples: 'PCC "Police Commissioner"
-QUERY = 'Police Commissioner'
+# Examples: 'Alexa O'Brien"
+QUERY = ''
 RESULTS_PER_PAGE = '100'
 LANGUAGE = 'eng'
 NUM_PAGES = 20 
